@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RolfEleveld
-- 👀 I’m interested in anything technology, mostly code, DNA, SaaS, AaaS, Getting in touch with Geeks and Nerds in UAE
-- 🌱 I’m currently learning SAP, AWS, RSS, Zero Hosting, Server Less, Building a new Techies community in UAE
+- 👀 I’m interested in anything technology, mostly code, DNA, SaaS, PaaS, IaaS, FaaS ... (A)aaS, Getting in touch with Geeks and Nerds,
+- 🌱 I’m learning SAP, AWS, RSS, Zero Hosting, and Server Less.
 - 💞️ I’m looking to collaborate on any technology topic
 - 📫 How to reach me https://www.linkedin.com/in/rolfeleveld
 
