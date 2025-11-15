@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RolfEleveld
 - 👀 I’m interested in anything technology, mostly code, DNA, SaaS, PaaS, IaaS, FaaS ... (A)aaS, Getting in touch with Geeks and Nerds,
-- 🌱 I’m learning SAP, AWS, RSS, Zero Hosting, and Server Less.
+- 🌱 I’m learning to deliver the right solutions for the users and businesses.
 - 💞️ I’m looking to collaborate on any technology topic
 - 📫 How to reach me https://www.linkedin.com/in/rolfeleveld
 
